@@ -1,0 +1,182 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AsciiNull.com" resolutions="1x,2x" timestamp="1518311947389">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_maintenance.css" crc="401818792" ref="construction"/>
+    <file name="master_a-master.css" crc="497942073" ref="admin:fun:index:util:commands"/>
+    <file name="admin.css" crc="252094517" ref="admin"/>
+    <file name="fun.css" crc="68400386" ref="fun"/>
+    <file name="index.css" crc="106018771" ref="index"/>
+    <file name="util.css" crc="3869952160" ref="util"/>
+    <file name="commands.css" crc="260069537" ref="commands"/>
+    <file name="construction.css" crc="409097668" ref="construction"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:commands:construction:admin:util:fun"/>
+    <file name="museutils.js" crc="3803043152" ref="index:commands:construction:admin:util:fun"/>
+    <file name="whatinput.js" crc="86476730" ref="index:commands:construction:admin:util:fun"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:commands:construction:admin:util:fun"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:commands:construction:admin:util:fun"/>
+    <file name="require.js" crc="4157109226" ref="index:commands:construction:admin:util:fun"/>
+  </folder>
+  <folder name="images">
+    <file name="loading.gif" crc="3787008209" seo="true" ref="index:commands:admin:util:fun">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commands" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="fun" alt=""/>
+      <caption webpage="util" alt=""/>
+    </file>
+    <file name="loading_2x.gif" crc="3787008209" seo="true" ref="index:commands:admin:util:fun">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commands" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="fun" alt=""/>
+      <caption webpage="util" alt=""/>
+    </file>
+    <file name="logonotext410x257.png" crc="4003337550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logonotext410x257_2x.png" crc="3934086432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:commands:admin:util:fun"/>
+    <file name="u148_states.png" crc="3793415032" ref="index:commands:admin:util:fun"/>
+    <file name="u148_states_2x.png" crc="193895468" ref="index:commands:admin:util:fun"/>
+    <file name="u148_states-r.png" crc="4178475029" ref="index:commands:admin:util:fun"/>
+    <file name="u148_states-r_2x.png" crc="3950414967" ref="index:commands:admin:util:fun"/>
+    <file name="u607_states.png" crc="3813744921" ref="index"/>
+    <file name="u607_states_2x.png" crc="406355245" ref="index"/>
+    <file name="u607_states-r.png" crc="4258801032" ref="index"/>
+    <file name="u607_states-r_2x.png" crc="216159488" ref="index"/>
+    <file name="u607_states-m.png" crc="4239611364" ref="index"/>
+    <file name="u607_states-m_2x.png" crc="4188946460" ref="index"/>
+    <file name="u608_states.png" crc="164932378" ref="index"/>
+    <file name="u608_states_2x.png" crc="291282504" ref="index"/>
+    <file name="u608_states-r.png" crc="4180344086" ref="index"/>
+    <file name="u608_states-r_2x.png" crc="109678242" ref="index"/>
+    <file name="u1206-4.png" crc="4064219795" ref="index"/>
+    <file name="u1206-4_2x.png" crc="485877260" ref="index"/>
+    <file name="u1209-4.png" crc="383520115" ref="index"/>
+    <file name="u1209-4_2x.png" crc="516392464" ref="index"/>
+    <file name="u1212-6.png" crc="3999103596" ref="index"/>
+    <file name="u1212-6_2x.png" crc="3778382629" ref="index"/>
+    <file name="u1230-4.png" crc="221939591" ref="index"/>
+    <file name="u1230-4_2x.png" crc="451810421" ref="index"/>
+    <file name="u1221-4.png" crc="4083844406" ref="index"/>
+    <file name="u1221-4_2x.png" crc="3918003700" ref="index"/>
+    <file name="discord.png" crc="399055468" seo="true" ref="index:commands:admin:util:fun">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commands" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="fun" alt=""/>
+      <caption webpage="util" alt=""/>
+    </file>
+    <file name="discord_2x.png" crc="67781634" seo="true" ref="index:commands:admin:util:fun">
+      <caption webpage="index" alt=""/>
+      <caption webpage="commands" alt=""/>
+      <caption webpage="admin" alt=""/>
+      <caption webpage="fun" alt=""/>
+      <caption webpage="util" alt=""/>
+    </file>
+    <file name="u170-4.png" crc="4162415782" ref="index:commands:admin:util:fun"/>
+    <file name="u170-4_2x.png" crc="468763314" ref="index:commands:admin:util:fun"/>
+    <file name="u599-4-a.png" crc="513663248" ref="commands"/>
+    <file name="u599-4-a_2x.png" crc="18450584" ref="commands"/>
+    <file name="u598_states.png" crc="3813744921" ref="commands"/>
+    <file name="u598_states_2x.png" crc="406355245" ref="commands"/>
+    <file name="u598_states-r.png" crc="4258801032" ref="commands"/>
+    <file name="u598_states-r_2x.png" crc="216159488" ref="commands"/>
+    <file name="u628-4.png" crc="16468046" ref="commands"/>
+    <file name="u628-4_2x.png" crc="291363107" ref="commands"/>
+    <file name="u704-4.png" crc="3794094531" ref="commands"/>
+    <file name="u704-4_2x.png" crc="3904161183" ref="commands"/>
+    <file name="u710-4.png" crc="3814961034" ref="commands"/>
+    <file name="u710-4_2x.png" crc="26795097" ref="commands"/>
+    <file name="u415-4.png" crc="477027209" ref="construction"/>
+    <file name="u415-4_2x.png" crc="408278862" ref="construction"/>
+    <file name="logonotext.png" crc="4012963272" seo="true" ref="construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="logonotext_2x.png" crc="262077908" seo="true" ref="construction">
+      <caption webpage="construction" alt=""/>
+    </file>
+    <file name="u475-4.png" crc="4067116454" ref="construction"/>
+    <file name="u475-4_2x.png" crc="4149787620" ref="construction"/>
+    <file name="u478-7.png" crc="3797380770" ref="construction"/>
+    <file name="u478-7_2x.png" crc="513067492" ref="construction"/>
+    <file name="u824-4.png" crc="164932378" ref="admin"/>
+    <file name="u824-4_2x.png" crc="291282504" ref="admin"/>
+    <file name="u823_states.png" crc="3813744921" ref="admin"/>
+    <file name="u823_states_2x.png" crc="406355245" ref="admin"/>
+    <file name="u823_states-r.png" crc="4258801032" ref="admin"/>
+    <file name="u823_states-r_2x.png" crc="216159488" ref="admin"/>
+    <file name="u830-4.png" crc="4223535828" ref="admin"/>
+    <file name="u830-4_2x.png" crc="3922471490" ref="admin"/>
+    <file name="u832-4.png" crc="3794094531" ref="admin"/>
+    <file name="u832-4_2x.png" crc="3904161183" ref="admin"/>
+    <file name="u834-4.png" crc="3814961034" ref="admin"/>
+    <file name="u834-4_2x.png" crc="26795097" ref="admin"/>
+    <file name="u1023-4.png" crc="4077101947" ref="admin"/>
+    <file name="u1023-4_2x.png" crc="4206416257" ref="admin"/>
+    <file name="u1035-4.png" crc="4125512420" ref="admin"/>
+    <file name="u1035-4_2x.png" crc="3843510678" ref="admin"/>
+    <file name="u1053-4.png" crc="301040625" ref="admin"/>
+    <file name="u1053-4_2x.png" crc="4012224757" ref="admin"/>
+    <file name="u1059-4.png" crc="4147781846" ref="admin"/>
+    <file name="u1059-4_2x.png" crc="4284056863" ref="admin"/>
+    <file name="u1062-4.png" crc="3826405575" ref="admin"/>
+    <file name="u1062-4_2x.png" crc="4011571242" ref="admin"/>
+    <file name="u1065-4.png" crc="184829927" ref="admin"/>
+    <file name="u1065-4_2x.png" crc="468575261" ref="admin"/>
+    <file name="u1071-4.png" crc="3859682515" ref="admin"/>
+    <file name="u1071-4_2x.png" crc="412176384" ref="admin"/>
+    <file name="u932-4.png" crc="164932378" ref="util"/>
+    <file name="u932-4_2x.png" crc="291282504" ref="util"/>
+    <file name="u869-4.png" crc="259789173" ref="util"/>
+    <file name="u869-4_2x.png" crc="3954530602" ref="util"/>
+    <file name="u871-4.png" crc="16468046" ref="util"/>
+    <file name="u871-4_2x.png" crc="291363107" ref="util"/>
+    <file name="u931_states.png" crc="3813744921" ref="util"/>
+    <file name="u931_states_2x.png" crc="406355245" ref="util"/>
+    <file name="u931_states-r.png" crc="4258801032" ref="util"/>
+    <file name="u931_states-r_2x.png" crc="216159488" ref="util"/>
+    <file name="u873-4.png" crc="3814961034" ref="util"/>
+    <file name="u873-4_2x.png" crc="26795097" ref="util"/>
+    <file name="u1080-4.png" crc="4077101947" ref="util"/>
+    <file name="u1080-4_2x.png" crc="4206416257" ref="util"/>
+    <file name="u1081-4.png" crc="348753589" ref="util"/>
+    <file name="u1081-4_2x.png" crc="184670838" ref="util"/>
+    <file name="u1082-4.png" crc="531118582" ref="util"/>
+    <file name="u1082-4_2x.png" crc="509926177" ref="util"/>
+    <file name="u1083-4.png" crc="257731115" ref="util"/>
+    <file name="u1083-4_2x.png" crc="3920430190" ref="util"/>
+    <file name="u938-4.png" crc="164932378" ref="fun"/>
+    <file name="u938-4_2x.png" crc="291282504" ref="fun"/>
+    <file name="u908-4.png" crc="450263248" ref="fun"/>
+    <file name="u908-4_2x.png" crc="3865950042" ref="fun"/>
+    <file name="u910-4.png" crc="16468046" ref="fun"/>
+    <file name="u910-4_2x.png" crc="291363107" ref="fun"/>
+    <file name="u937_states.png" crc="3813744921" ref="fun"/>
+    <file name="u937_states_2x.png" crc="406355245" ref="fun"/>
+    <file name="u937_states-r.png" crc="4258801032" ref="fun"/>
+    <file name="u937_states-r_2x.png" crc="216159488" ref="fun"/>
+    <file name="u912-4.png" crc="3794094531" ref="fun"/>
+    <file name="u912-4_2x.png" crc="3904161183" ref="fun"/>
+    <file name="u1155-4.png" crc="4077101947" ref="fun"/>
+    <file name="u1155-4_2x.png" crc="4206416257" ref="fun"/>
+    <file name="u1156-4.png" crc="4101534855" ref="fun"/>
+    <file name="u1156-4_2x.png" crc="4020205322" ref="fun"/>
+    <file name="u1157-4.png" crc="307599616" ref="fun"/>
+    <file name="u1157-4_2x.png" crc="35539713" ref="fun"/>
+    <file name="u1158-4.png" crc="394873939" ref="fun"/>
+    <file name="u1158-4_2x.png" crc="394477878" ref="fun"/>
+    <file name="u1159-4.png" crc="281653410" ref="fun"/>
+    <file name="u1159-4_2x.png" crc="3783416191" ref="fun"/>
+  </folder>
+  <file name="index.html" crc="4146000006" seo="true" mt="1518311372689" redirect="true"/>
+  <file name="commands.html" crc="498812905" seo="true" mt="1518302746709" redirect="true"/>
+  <file name="construction.html" crc="499485452" seo="true" mt="1518300789919" redirect="true"/>
+  <file name="admin.html" crc="445740346" seo="true" mt="1518310681821" redirect="true"/>
+  <file name="util.html" crc="4021138839" seo="true" mt="1518310666549" redirect="true"/>
+  <file name="fun.html" crc="3851655760" seo="true" mt="1518310674240" redirect="true"/>
+</manifest>
